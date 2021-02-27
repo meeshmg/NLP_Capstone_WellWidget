@@ -1,9 +1,9 @@
 
 # Well-Widget: A Project Proposal
-### by Michelle Griffith
+by Michelle Griffith
 
 
-##To Whom It May Concern: 
+## To Whom It May Concern: 
 
 The internet is more accessible than ever these days, and many people - especially young people - are spending more and more time on the social media sites. Screen time is up, and as a result, so are mental health issues. According to Science Daily, “Longer screen time (more than two hours a day) was associated with lower levels of life satisfaction and optimism, and higher levels of anxiety and depressive symptoms” for teens, especially girls, as found during a 2020 study conducted by researchers at the University of British Columbia.
 
