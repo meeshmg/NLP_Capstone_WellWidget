@@ -32,6 +32,6 @@ Possible challenges this project might encounter include working with an incredi
 Please reach out with any questions or feedback in the meantime, or if your party is interested in receiving the results of the data analysis. 
 
 
-# Best Regards,
-# Michelle Griffith 
+## Best Regards,
+## Michelle Griffith 
 
